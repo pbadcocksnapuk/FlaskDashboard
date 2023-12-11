@@ -1,0 +1,10 @@
+style="color: #F3F1E9;"
+class="navbar" style="background-color: #062D4E;
+
+<!--<h1>This is the login page.</h1>-->
+<!--{% if boolean == True %}-->
+<!--Yes it is true!-->
+<!--{% endif %}-->
+<!--{{ text }}-->
+<!--{{ user }}-->
+<!--{% endblock %}-->
